@@ -20,7 +20,7 @@ Il procedimento è laborioso, perché non esiste una funzione API che permetta u
 .. figure:: _img/2.png
    :scale: 50
 
-   
+   Il testo del CAD come visualizzato su Normattiva. 
 
 
 Tutte le versioni del CAD ottenute da Normattiva.it sono contenute nella cartella `input` in questo repo.
