@@ -20,7 +20,7 @@ Panoramica del processo di conversione
 
    _rst/testi-input.rst
    _rst/normattiva2rst.rst
-   _rst/revisione.rst
-   _rst/split.rst
-   _rst/repo.rst
-   _rst/upload.rst
+   _rst/revisione-manuale.rst
+   _rst/divisione-file.rst
+   _rst/caricamento-repo.rst
+   _rst/caricamento-online.rst

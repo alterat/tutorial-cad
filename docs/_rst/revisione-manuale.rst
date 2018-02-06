@@ -3,7 +3,7 @@ Revisione manuale
 
 I testi contenuti nella cartella *rst* devono essere corretti manualmente prima di una ulteriore conversione. 
 
-Nel testo di `Normattiva <http://www.normattiva.it>`_, infatti, a volte sono presenti degli errori o delle inconsistenze che impediscono a :code:`normattiva2rst` di effettuare la conversione correttamente. 
+Nel testo di `Normattiva <http://www.normattiva.it>`_, infatti, a volte sono presenti degli errori o delle inconsistenze che impediscono a :code:`normattiva2rst.py` di effettuare la conversione correttamente. 
 
 Per esempio:
 

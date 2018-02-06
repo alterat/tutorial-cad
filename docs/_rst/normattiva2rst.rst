@@ -1,9 +1,9 @@
-Conversione in formato RST
-==========================
+Conversione in formato reStructuredText
+=======================================
 
-Ottenuti i testi delle versioni del CAD, è possibile eseguire una prima conversione in formato RST. Lo script :code:`normattiva2rst` serve a questo scopo.
+Ottenuti i testi delle versioni del CAD, è possibile eseguire una prima conversione in `formato reStructuredText (RST) <http://docutils.sourceforge.net/rst.html>`_. Questo è il formato utilizzato dal tool `Sphinx <http://www.sphinx-doc.org/>`_ per produrre la documentazione.
 
-:code:`normattiva2rst` è uno script in Python che accetta un file di testo in input e restituisce un file convertito in formato RST. La sintassi per l'uso dello script è:
+Lo script :code:`normattiva2rst.py` è un programma in Python che accetta un file di testo in input e restituisce un file convertito in formato RST. La sintassi per l'uso dello script è:
 
 .. code-block:: bash
    
@@ -19,4 +19,4 @@ Le funzioni principali dello script sono:
 
 4. Indentare i commi e i paragrafi in maniera consistente con la sintassi RST.
 
-Il processo di conversione delle varie versioni del CAD è stato automatizzato con uno script in Bash, :code:`bulk-text2rst`, che applica lo script :code:`normattiva2rst` a tutti i testi contenuti nella cartella *input*.
+Il processo di conversione delle varie versioni del CAD è stato automatizzato con uno script in Bash, :code:`bulk-text2rst.sh`, che applica lo script :code:`normattiva2rst.py` a tutti i testi contenuti nella cartella *input*.

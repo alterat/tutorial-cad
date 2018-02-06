@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Conversione del CAD"
-settings_copyright_year = '2017'
+settings_project_name = "Conversione del Codice dell'amministrazione digitale in formato Read the Docs"
+settings_copyright_year = '2018'
 settings_copyright_name = 'AgID, Team Digitale'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
